@@ -100,7 +100,7 @@ switch (proc1) {
     doWhatItSays();
     break;
   default:
-    console.log("concert-this, spotify-this-song, movie-this, do-what-it-says");
+    console.log("type in an option");
 };
 
 
